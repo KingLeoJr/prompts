@@ -102,3 +102,5 @@ MIT License — free to use, modify, and distribute.
 
 Pull requests are welcome.  
 Feel free to add more structures, improve the meta-model, or contribute the generic generator.
+
+Tags: awesome‑vibe‑coding, ai‑coding‑agents, prompt‑engineering, builder‑prompts, cursor‑prompts, bolt‑new‑prompts, cline‑prompts, aider‑prompts, windsorf‑prompts, lovable‑dev‑prompts, deepseek‑artifact‑prompts, llmacoder‑prompts, geminicoder‑prompts, project‑idx‑prompts, trae‑builder‑prompts, ai‑project‑templates, app‑blueprints, er‑meta‑model, parameterized‑templates, full‑stack‑templates, react‑templates, nextjs‑templates, astro‑templates, vue‑templates, wordpress‑templates, saas‑templates, web‑app‑structures, ai‑app‑structures, coding‑automation, model‑driven‑development, ai‑powered‑development, project‑scaffolding, template‑generator, high‑level‑idea‑to‑app, ai‑builder‑ecosystem
